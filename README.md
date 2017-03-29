@@ -11,6 +11,5 @@ As of now deadlines and progress tracking will be listed in the following spread
 Everything that we have to worry about before we need to worry about other things.
 
 ## CompletedDeadlines
-![Deadlines should show here, if it dosent- someone screwed up]
-(https://github.com/AHAJT/MainInformation/blob/master/Planning%20&%20Role%20Allocation%20-%20Sheet1-1.png "Updated as of 29/03/2017")
+![Deadlines should show here, if it dosent- someone screwed up](https://github.com/AHAJT/MainInformation/blob/master/Planning%20&%20Role%20Allocation%20-%20Sheet1-1.png "Updated as of 29/03/2017")
 
